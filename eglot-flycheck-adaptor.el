@@ -80,3 +80,6 @@
   ad-do-it)
 
 (ad-activate 'flymake-mode)
+
+(provide 'eglot-flycheck-adaptor)
+;;; eglot-flycheck-adaptor.el ends here
